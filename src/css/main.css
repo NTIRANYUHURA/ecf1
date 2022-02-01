@@ -1,0 +1,10 @@
+
+.navbar-light .navbar-nav .nav-link{
+  color: white !important;
+  justify-content: center !important;
+  
+}
+
+.navbar>.container{
+justify-content: center;
+}
